@@ -8,6 +8,6 @@ import (
 )
 
 var (
-	id int 
+	id   int
 	name string
 )
